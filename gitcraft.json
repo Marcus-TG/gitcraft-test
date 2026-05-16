@@ -1,17 +1,17 @@
 {
   "version": 1,
-  "commit_id": 1,
+  "commit_id": 2,
   "player_uuid": "f645b0f2-0ad3-3d87-9467-cd8df2338d72",
   "player_name": "BenTGNetanyahu",
-  "message": "initial",
+  "message": "gutted interior and removed wooden pillar",
   "branch": "main",
-  "schem_path": "main/1.schem",
+  "schem_path": "main/2.schem",
   "world_uuid": "94d3480a-8dd0-4323-8e64-6f8c5693a8c5",
   "world_name": "world",
   "min_x": 7, "min_y": -61, "min_z": 169,
   "max_x": 13, "max_y": -54, "max_z": 175,
-  "created_at": 1778951829244,
-  "parent_commit_id": null,
+  "created_at": 1778951868544,
+  "parent_commit_id": 1,
   "merge_parent_commit_id": null,
   "cherry_pick_source_id": null
 }
